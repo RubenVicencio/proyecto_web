@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body {
+  font-family: "Cabin", sans-serif;
+}
+
+.logo {
+  font-family: "Lobster", cursive;
+  font-size: 3rem;
+  color: white;
+}
+
+header nav {
+  background-color: #373a3c;
+}
+
+h1 .text-dark {
+  font-size: 2.5rem;
+}
+
+
+#enviar_correo{
+  font-size: 16px;
+  background-color: white;
+  color: #373a3c;
+}
+
+button .title{
+  font-size: 5px;
+}
+
+#favoritos {  font-size: 16px;
+  background-color: white;
+  color: #373a3c;}
+
+.seccion1 {
+  margin: 6rem;
+}
+
+
+ul{
+  list-style:none;
+}
+.seccion1 .card {
+  border: #dddddd;
+}
+
+.card-title {
+  font-size: 2.5rem;
+}
+
+h5 .btn{
+  background-color: #dddddd;
+  color: black;
+}
+
+.rojo {
+  width: 100%;
+ height: 530px;
+  background-color: #dc3545;
+  color: white;
+}
+
+.rojo #container_rojo {
+  padding-top: 12rem;
+}
+
+
+.rojo .logo {
+    font-size: 2rem;
+
+
+    
+hr {
+  border: 0 none;
+  color: black;
+  height: 3px;
+}
+
+footer{
+    position: absolute;;
+}
+footer h1 {
+    position: relative;
+    width: 50px;
+    padding-left: 300px;
+}
